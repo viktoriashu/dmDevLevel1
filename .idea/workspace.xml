@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6cef61ca-94d0-409a-9132-1a450776bdc0" name="Changes" comment="Lesson2-cycles-task1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="Task2-fix-commit" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lesson2-cycles-task1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="08f3a297-50c2-4b9c-ac94-005aa0b5971b" />
+        <option name="url" value="https://github.com/viktoriashu/dmDevLevel1.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2bahNVBT9z38Fql1GyI1uBlaEQQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Task1.executor": "Run",
+    "Application.Task2.executor": "Run",
+    "Application.Task3.executor": "Run",
+    "Application.com.viktoria.cs.lesson2.hw.cycles.Task1.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Виктория/IdeaProjects/first application/src/com/viktoria/cs/lesson15/Lesson15Runner.java",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Language Defaults"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.com.viktoria.cs.lesson2.hw.cycles.Task1">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.viktoria.cs.lesson18.hw.Task1" />
+      <module name="dmDevLevel1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.viktoria.cs.lesson18.hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.viktoria.cs.lesson18.hw.Task2" />
+      <module name="dmDevLevel1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.viktoria.cs.lesson18.hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.viktoria.cs.lesson18.hw.Task3" />
+      <module name="dmDevLevel1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.viktoria.cs.lesson18.hw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.viktoria.cs.lesson2.hw.cycles.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.viktoria.cs.lesson2.hw.cycles.Task1" />
+      <module name="dmDevLevel1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.viktoria.cs.lesson2.hw.cycles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.com.viktoria.cs.lesson2.hw.cycles.Task1" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cef61ca-94d0-409a-9132-1a450776bdc0" name="Changes" comment="" />
+      <created>1704625681006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704625681006</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Task1">
+      <option name="closed" value="true" />
+      <created>1706461918219</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706461918219</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Task2">
+      <option name="closed" value="true" />
+      <created>1706462749880</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706462749880</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Task3">
+      <option name="closed" value="true" />
+      <created>1706462965680</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706462965680</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Task3 fix commit">
+      <option name="closed" value="true" />
+      <created>1706552443321</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706552443321</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Lesson2-cycles-task1">
+      <option name="closed" value="true" />
+      <created>1707040839481</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707040839481</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="fix-commit" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task1" />
+    <MESSAGE value="Task2" />
+    <MESSAGE value="Task3" />
+    <MESSAGE value="Task3 fix commit" />
+    <MESSAGE value="Lesson2-cycles-task1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson2-cycles-task1" />
+  </component>
+</project>
