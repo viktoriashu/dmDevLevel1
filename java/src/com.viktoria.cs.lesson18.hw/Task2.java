@@ -42,7 +42,7 @@ public class Task2 {
             case MULTIPLICATION -> System.out.println(multiplication(value1, value2));
             case DIVISION -> System.out.println(division(value1, value2));
             case MODULUS -> System.out.println(modulus(value1, value2));
-            default -> throw new IllegalArgumentException("Invalid mathematical operation");
+//            default -> throw new IllegalArgumentException("Invalid mathematical operation");
         }
         ;
     }
