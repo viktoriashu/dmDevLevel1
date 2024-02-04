@@ -13,6 +13,7 @@ public class Task1 {
         int value = -450265; // 4 четных (4, 0, 2, 6) и 2 нечетных (5, 5) (число 450265)
         System.out.println("Количество четных чисел составило: " + unevenNumbers(value));
         System.out.println("Количество нечетных чисел составило: " + evenNumbers(value));
+
     }
 
     private static int unevenNumbers(int value) {
